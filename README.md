@@ -1,6 +1,6 @@
 # Churn-BetaBank
 
- Predicción de Abandono de Clientes (Churn) — Beta Bank
+## Predicción de Abandono de Clientes (Churn) — Beta Bank
  
 Modelado predictivo · Clasificación binaria · Manejo de datos desbalanceados
 
